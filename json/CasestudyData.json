@@ -1,0 +1,178 @@
+[
+  {
+    "BRAND": "GIBSON",
+    "NAME": "J-45 STANDARD",
+    "PRODUCTNAME": "ACOUSTIC GUITAR",
+    "GRAPHICNAME": "GIBS-J-45",
+    "COSTPRICE": "3999.00",
+    "MSRP": "4100.00",
+    "QTYONHAND": 10,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "The J-45 is Gibson's best-selling acoustic of all time. Nicknamed \"The Workhorse\" and first introduced in 1942, this iconic acoustic has become the cornerstone of its round-shoulder, dreadnought line. World renowned for its full, balanced expression, warm bass and excellent projection, the J-45 has been refined to carry this legacy to new heights. This 2019 model delivers a sound with incredible dynamic range, warm mids, and a tight punchy bass."
+  },
+  {
+    "BRAND": "GIBSON",
+    "NAME": "LES PAUL TRIBUTE",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "GIBS-LESPUAL",
+    "COSTPRICE": "1599.00",
+    "MSRP": "1800.00",
+    "QTYONHAND": 5,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "The Les Paul Tribute captures the vibe, feel and tonality of a traditional Les Paul and is available in four classic finishes. A rounded maple neck prole and ultra-modern weight relief make the Gibson Les Paul Studio Tribute a pleasure to play. A mahogany body, maple top and pair of 490 R & T humbucking pickups with Alnico II magnets provide classic tone, power and sustain."
+  },
+  {
+    "BRAND": "GIBSON",
+    "NAME": "SG TRIBUTE",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "GIBS-SG",
+    "COSTPRICE": "1750.00",
+    "MSRP": "1800.00",
+    "QTYONHAND": 2,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "Available in Vintage Cherry Satin and Natural Walnut Satin, the SG Standard Tribute boasts a traditional mahogany body and rounded profile maple neck with rosewood fingerboard. It is finished with a black, 5-ply full-face pickguard loaded with double black, open-coil 490R and 490T Alnico II loaded pickups. Nickel plated hardware includes Vintage Deluxe tuners w/ Keystone buttons, a Nashville Tune-O-Matic bridge and Aluminum Stop Bar Tailpiece."
+  },
+  {
+    "BRAND": "GIBSON",
+    "NAME": "FLYING V",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "GIBS-V",
+    "COSTPRICE": "2549.00",
+    "MSRP": "2699.00",
+    "QTYONHAND": 0,
+    "QTYONBACKORDER": 1,
+    "DESCRIPTION": "Introduced in 1958 and only made in limited quantities, the Gibson Flying V has taken flight over the years along with legions of followers. This Flying V carries heritage to new heights. The Antique Natural finish, mahogany body and slim taper neck with rosewood fingerboard provide classic looks, sound and playability. A special set of calibrated Burstbucker 2 (neck) and Burstbucker 3 (bridge) pickups provide that perfect mix of volume, tone and power."
+  },
+  {
+    "BRAND": "GIBSON",
+    "NAME": "EXPLORER",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "GIBS-EXP",
+    "COSTPRICE": "2299.00",
+    "MSRP": "2499.00",
+    "QTYONHAND": 3,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "Introduced along-side the Gibson Flying V in 1958, the Gibson Explorer traveled where no man had gone before and past every guitar design that came before it. Over 60 years later the Gibson Explorer is utilized by artists of all genres making it one of the true classics of the guitar world. The Antique Natural finish, all mahogany setneck construction, rosewood fingerboard and slim taper neck provide incredible classic looks, sound and playability."
+  },
+  {
+    "BRAND": "FENDER",
+    "NAME": "STRATOCASTER",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "FEND-ST",
+    "COSTPRICE": "1750.00",
+    "MSRP": "1800.00",
+    "QTYONHAND": 2,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "The inspiring sound of a Stratocaster is one of the foundations of Fender. Featuring this classic sound - bell-like high end, punchy mids and robust low end, combined with crystal-clear articulation - the Player Stratocaster is packed with authentic Fender feel and style. It's ready to serve your musical vision, it's versatile enough to handle any style of music and it's the perfect platform for creating your own sound."
+  },
+  {
+    "BRAND": "FENDER",
+    "NAME": "TELECASTER",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "FEND-TEL",
+    "COSTPRICE": "1350.00",
+    "MSRP": "1600.00",
+    "QTYONHAND": 1,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "Bold, innovative and rugged, the Player Telecaster is pure Fender, through and through. The feel, the style and, most importantly, the sound - they're all there, waiting for you to make them whisper or wail for your music. Versatile enough to handle almost anything you can create and durable enough to survive any gig, this workhorse is a trusty sidekick for your musical vision."
+  },
+  {
+    "BRAND": "FENDER",
+    "NAME": "MUSTANG 90",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "FEND-M90",
+    "COSTPRICE": "1230.00",
+    "MSRP": "1499.00",
+    "QTYONHAND": 4,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "Perfect for garage rock and other styles that thrive on nonconformity, the Mustang 90 offers a distinctive take on a classic model. With upgraded features, unique aesthetics and fat Fender sound, this spirited instrument is perfect for players that march to a different beat."
+  },
+  {
+    "BRAND": "FENDER",
+    "NAME": "JAZZMASTER",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "FEND-JAZZ",
+    "COSTPRICE": "1590.00",
+    "MSRP": "1650.00",
+    "QTYONHAND": 7,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "For players who want the style and sound of Fender's golden era, Fender created the Vintera '60s Jazzmaster. Equipped with the coveted features that defined the decade - including period accurate neck profile and playing feel, along with re-voiced pickups - this guitar has all of the warm, smooth sound that made the Jazzmaster a legend."
+  },
+  {
+    "BRAND": "FENDER",
+    "NAME": "ACOUSTASONIC",
+    "PRODUCTNAME": "ELECTRIC ACOUSTIC GUITAR",
+    "GRAPHICNAME": "FEND-ACU",
+    "COSTPRICE": "2290.00",
+    "MSRP": "2300.00",
+    "QTYONHAND": 0,
+    "QTYONBACKORDER": 2,
+    "DESCRIPTION": "Fender continues to explore the sonic possibilities of an acoustic-electric hybrid guitar with the Acoustasonic Player Jazzmaster. Purposefully streamlined and equally versatile, this guitar intuitively transitions from acoustic to electric voices with the 3-way switch, or from clean to driven with a turn of the Blend Knob. The Acoustasonic Player Jazzmaster delivers unlimited inspiration, versatility, and accessibility for the next generation of modern musicians."
+  },
+  {
+    "BRAND": "EPIPHONE",
+    "NAME": "LES PUAL STUDIO E1",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "EPI-LES-E1",
+    "COSTPRICE": "750.00",
+    "MSRP": "800.00",
+    "QTYONHAND": 1,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "Epiphone presents the 2017 Les Paul Melody Maker E1, the most affordable 2-pickup Les Paul ever made with a slim lightweight Poplar body with powerful Epiphone Ceramic pickups. Available in six exclusive colours - Ebony, Heritage Cherry Sunburst, Pacific Blue, Sunset Yellow, Turquoise, and Vintage Sunburst."
+  },
+  {
+    "BRAND": "EPIPHONE",
+    "NAME": "SG SPECIAL STAIN E1",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "EPI-SG-E1",
+    "COSTPRICE": "350.00",
+    "MSRP": "400.00",
+    "QTYONHAND": 4,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "The Epiphone SG Special Satin E1 is a great way for players to discover a rock classic or obtain a stage-ready touring standby at a price anyone can afford. Featuring Epiphone open-coil humbuckers with Ceramic Magnets and available in five beautiful Vintage Worn finishes including Cherry, Ebony, Heritage Cherry Sunburst, Vintage Sunburst, and Walnut, this is the SG Special Satin E1!"
+  },
+  {
+    "BRAND": "EPIPHONE",
+    "NAME": "SG CLASSIC P90",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "EPI-CL-P90",
+    "COSTPRICE": "490.00",
+    "MSRP": "500.00",
+    "QTYONHAND": 4,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "The Epiphone SG Special (P-90) from the new Inspired by Gibson Collection offers fans the legendary SG solid body electric with powerful Epiphone P-90-PRO™ single coil pickups. Available in Sparkling Burgundy and Faded Pelham Blue."
+  },
+  {
+    "BRAND": "EPIPHONE",
+    "NAME": "CORONET",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "EPI-CORO",
+    "COSTPRICE": "390.00",
+    "MSRP": "500.00",
+    "QTYONHAND": 1,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "First introduced in 1958, the Epiphone Coronet was one of Epiphone's first and most successful original solid body electric guitar designs. The latest version brings back many of the features of the early Coronet models including the symmetrical double-cutaway mahogany body with a single Epiphone PRO P-90 Dogear pickup, three on a side reduced sized Kalamazoo headstock with Epiphone Bikini badge and ivory button tuning machines, and a white butterfly pickguard with foil E logo."
+  },
+  {
+    "BRAND": "EPIPHONE",
+    "NAME": "SG MUSE",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "EPI-SG-M",
+    "COSTPRICE": "545.00",
+    "MSRP": "600.00",
+    "QTYONHAND": 0,
+    "QTYONBACKORDER": 1,
+    "DESCRIPTION": "The Epiphone SG Muse from the new Inspired by Gibson Collection features a classic SG profile with a Mahogany body powered by high output Alnico Classic PRO™ humbuckers with coil-splitting and phase controls plus a treble bleed circuit to maintain clarity at lower volumes. Available in all new metallic finishes including Radio Blue Metallic, Wanderlust Green Metallic, Purple Passion Metallic, Smoked Almond Metallic, Pearl White Metallic, Jet Black Metallic, and Scarlet Red Metallic."
+  },
+  {
+    "BRAND": "EPIPHONE",
+    "NAME": "UPTOWN KAT ES",
+    "PRODUCTNAME": "ELECTRIC GUITAR",
+    "GRAPHICNAME": "EPI-UP-KAT",
+    "COSTPRICE": "1099.00",
+    "MSRP": "1200.00",
+    "QTYONHAND": 6,
+    "QTYONBACKORDER": 0,
+    "DESCRIPTION": "The next generation of \"Kat\" archtops featuring ProBucker™ FB720 mini humbuckers, the new UpTown Kat™ ES Collection is the next generation of Epiphones classic Kat archtop and features a true ES style semi-hollowbody archtop with newly designed Epiphone ProBucker™ FB720 mini humbuckers™, Graph Tech® nut, Ebony fingerboard, and Grover® Rotomatic tuners. Available in Sapphire Blue Metallic, Ruby Red Metallic, Emerald Green Metallic, and Topaz Gold Metallic."
+  }
+]
